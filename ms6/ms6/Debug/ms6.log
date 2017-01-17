@@ -1,0 +1,7 @@
+﻿  AidApp.cpp
+c:\users\lawrence reyes\desktop\oop224\ms6\ms6\aidapp.cpp(14): warning C4101: 'p': unreferenced local variable
+c:\users\lawrence reyes\desktop\oop224\ms6\ms6\aidapp.cpp(112): warning C4154: deletion of an array expression; conversion to pointer supplied
+c:\users\lawrence reyes\desktop\oop224\ms6\ms6\aidapp.cpp(96): warning C4715: 'sict::AidApp::menu': not all control paths return a value
+c:\users\lawrence reyes\desktop\oop224\ms6\ms6\aidapp.cpp(173): warning C4715: 'sict::AidApp::SearchProducts': not all control paths return a value
+  ms6.vcxproj -> C:\Users\Lawrence Reyes\Desktop\OOP224\ms6\Debug\ms6.exe
+  ms6.vcxproj -> C:\Users\Lawrence Reyes\Desktop\OOP224\ms6\Debug\ms6.pdb (Partial PDB)

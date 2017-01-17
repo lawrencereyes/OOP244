@@ -1,0 +1,5 @@
+﻿  AccountNumber.cpp
+c:\users\lawrence reyes\desktop\oop224\w2_at_home\w2_at_home\accountnumber.cpp(2): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
+  c:\users\lawrence reyes\desktop\oop224\w2_at_home\w2_at_home\accountnumber.cpp(2): note: command-line arguments:  see previous definition of '_CRT_SECURE_NO_WARNINGS'
+  w2_at_home.vcxproj -> C:\Users\Lawrence Reyes\Desktop\OOP224\w2_at_home\Debug\w2_at_home.exe
+  w2_at_home.vcxproj -> C:\Users\Lawrence Reyes\Desktop\OOP224\w2_at_home\Debug\w2_at_home.pdb (Partial PDB)

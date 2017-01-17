@@ -1,0 +1,5 @@
+1) It will result in a memory leak.
+
+2) delete[] *(pointer locating to the dynamic memory) and *(pointer locating to the dynamic memory) = nullptr.
+
+3) it was required in the main because that is the only module that uses the memory.

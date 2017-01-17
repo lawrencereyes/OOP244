@@ -1,0 +1,3 @@
+﻿  main.cpp
+c:\users\lawrence reyes\desktop\oop224\war game\war game\main.cpp(14): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+LINK : fatal error LNK1168: cannot open C:\Users\Lawrence Reyes\Desktop\OOP224\War Game\Debug\War Game.exe for writing

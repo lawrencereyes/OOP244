@@ -1,0 +1,10 @@
+﻿  SportCar.cpp
+c:\users\lawrence reyes\desktop\oop224\w7_in_lab\w7_in_lab\sportcar.cpp(7): error C2512: 'sict::Car': no appropriate default constructor available
+  c:\users\lawrence reyes\desktop\oop224\w7_in_lab\w7_in_lab\car.h(6): note: see declaration of 'sict::Car'
+  PickupTruck.cpp
+c:\users\lawrence reyes\desktop\oop224\w7_in_lab\w7_in_lab\pickuptruck.cpp(8): error C2512: 'sict::Car': no appropriate default constructor available
+  c:\users\lawrence reyes\desktop\oop224\w7_in_lab\w7_in_lab\car.h(6): note: see declaration of 'sict::Car'
+  Generating Code...
+  Compiling...
+  w7_in_lab.cpp
+  Generating Code...

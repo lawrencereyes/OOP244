@@ -1,0 +1,9 @@
+1)In a file called reflect.txt and using examples from your own code explain which features of object orientation you used. 
+
+Encapsulation: Encapsulation was used in the creation of the class function in this program.
+
+Modular programming: In this program I used different modules to put the program together and be able to compile it faster.
+ 
+2)In the main function, there is no “if” statement for printing an error message when “isValid()” returns false and yet the error message is printed when account is not valid, explain why.
+
+This happens because the program already has the code of the error message when "isValid()" returns false within the AccountNumber.cpp module, becasue thats is where the code for the function is supposed to go and not in the main. Its more efficient that way.

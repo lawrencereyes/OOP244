@@ -1,0 +1,3 @@
+1) it checks if the values entered in the parameters are valid and then copy them into the values of the class. It also deallocates the dynamic memory and it allocates it again.
+
+2)a copy constructor is needed to have a copy of the values in the variables of the class, and assignment operators are there to either manipulate the values or to check if the values entered into the dynamic memory are the ones wanted.

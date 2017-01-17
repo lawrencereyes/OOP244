@@ -1,0 +1,27 @@
+#include <iostream>
+using namespace std;
+#include "AccountNumber.h"
+using namespace sict;
+
+int main() {
+	AccountNumber myNumber;
+	char name[41];
+	int bankCode;
+	int branchCode;
+	int accNumber;
+	cout << "Bank account app" << endl <<
+		"===================" << endl << endl;
+	cout << "Please enter your name: ";
+	cin >> name;
+	cout << "please enter your bank account ,branch code" <<
+		", and account number as follows:" << endl << "999 999 99999: ";
+	do {
+		cin >> bankCode >> branchCode >> accNumber;
+		myNumber.name(name);
+		myNumber.accountNumber(bankCode, branchCode, accNumber);
+		myNumber.display();
+	} while (!myNumber.isValid() &&
+		cout << "Invalid account number, (999 999 9999), try again: ");
+	cout << "Thank you!" << endl;
+	return 0;
+}

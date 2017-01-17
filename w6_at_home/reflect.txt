@@ -1,0 +1,5 @@
+1) we should avoid friend helper functions, because they can only access the public member of the class.
+
+2)yes, Account& operator+(cont Account&, const Account&);.
+
+3) It adds it automatically to the Account C balance_ variable.
